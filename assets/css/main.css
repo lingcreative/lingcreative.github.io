@@ -25,3 +25,11 @@
 	padding-top: 70px;
 	padding-bottom: 70px;
 }
+.open-qq {
+	width:100px;
+	height:24px;
+	position: fixed;
+	top: 300px;
+	right: 0px;
+	display:block;
+}
