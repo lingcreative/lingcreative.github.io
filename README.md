@@ -1,6 +1,3 @@
-sauntor.github.io
+Home
 =================
-
-= Home
-* TODO add a topic
-* TODO add another topic
+A website host on github.io for LingCreative Studio.
